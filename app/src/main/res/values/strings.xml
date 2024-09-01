@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="valbtadelante"> >> </string>
+    <string name="valbtpausar"> || </string>
+    <string name="valbtreprod"> |> </string>
+    <string name="valbtatras"> &lt;&lt; </string>
+    <string name="song_name">song.mp3</string>
+</resources>
